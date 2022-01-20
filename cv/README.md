@@ -1,22 +1,22 @@
-# Mitul Savani [he/him]
+# Sohail Mahmud
 
-_Software developer based in San Francisco, California_ <br>
-_(kem cho, maja ma? 🙏🏽)_
+_Software developer based in Chittagong, Bangladesh_ <br>
 
-[Twitter](https://twitter.com/mitulsavani_) / [Email](mailto:mitul.savani1@gmail.com) / [GitHub](https://github.com/mitulsavani/) / [LinkedIn](https://www.linkedin.com/in/savanimitul/)
+[Twitter](https://twitter.com/sohailcx) / [Email](mailto:sohailmahmud@outlook.com) / [GitHub](https://github.com/sohailmahmud/) / [LinkedIn](https://www.linkedin.com/in/sohailmahmud/)
 
-**You can find a [Single-Page PDF](https://mitulsavani.com/resume.pdf) version of my Resume/CV here.** 
-<br><br> 
+**You can find a [Single-Page PDF](https://sohailmahmud.github.io/resume.pdf) version of my Resume/CV here.**
+<br><br>
 
 ## 📝 Summary
 
-l revel in solving critical problems, developing algorithms, and building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I currently develop mobile apps at AgreeYa Solutions where I have experience working in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid and native technologies. I previously worked on building the core app at Kandou where I shipped features and released a new version of the app on app stores. I hold Magna Cum Laude in Bachelor's in Computer Science from San Francisco State University, 2016-2020. During my time in school,  I was a researcher and engineer who built and launched a pharmaceutical mobile app at Claryty which received an award from the school at the annual showcase. Moreover, I founded and led tutoring services at the computer science department for 3 years.
+l revel in solving critical problems, developing algorithms, and building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I currently develop mobile apps at Cimbuk Labs where I have experience working in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid and native technologies. I previously worked on building cross-platform app at Extreme Solutions where I shipped features and released a new version of the app on app stores, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys. I hold top 5% in Associate's degree in Computer Engineering from Chittagong Polytechnic Institute, 2014-2018. During my time in school, I was a researcher and engineer who built and launched a education management system web app at Automate Infosys which received an award from the school at the annual showcase. Moreover, I founded and led tutoring services at the computer programming for 2 years.
 
 I am interested in all things related to technology and designs, and my most recent career interests lie in Full Stack Development, Mobile Application Development, Human-Computer Interaction, Internet Application Design & Development, and Software Architecture.
 <br><br>
 
+<!--
 ## 👨🏽‍💻 Industry Experience
-
+--
 - **Software Developer (Mobile)** @ [AgreeYa Solutions](https://agreeya.com/) _(Aug 2020 - Present)_ <br>
   AgreeYa is a global systems integrator committed to delivering leading-edge, technology-enabled and business-driven solutions to small, medium and global Fortune 100 organizations.
   - Working experience in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid technologies such as Flutter, React Native, and Ionic.
@@ -40,22 +40,14 @@ I am interested in all things related to technology and designs, and my most rec
   - Won 3rd prize out of 240 projects at College of Science and Engineering annual showcase in 2019 at SF State
     <br><br>
 - **Open Source** @ [Facebook](https://reactnative.dev/)<br>
-React Native Core, React Native Website, React Native Directory
-    - Contributed in migrating ImageStore native module into the new TurboModule System architecture of the repository(v59)
-    - Updated API and Component docs to reflect the props and methods reflected in core repository(v62)
-    - Added 50+ missing libraries(Analytics, Geolocation, Deep Link, UI Components, and Other Platforms) that are associated with react native to the directory list
-    - Collaborated with core contributors to comprehend the code base and get peer feedback on the submitted work.
-    <br><br>
-    
-## 👮🏽‍♂️Leadership Activities
+  React Native Core, React Native Website, React Native Directory - Contributed in migrating ImageStore native module into the new TurboModule System architecture of the repository(v59) - Updated API and Component docs to reflect the props and methods reflected in core repository(v62) - Added 50+ missing libraries(Analytics, Geolocation, Deep Link, UI Components, and Other Platforms) that are associated with react native to the directory list - Collaborated with core contributors to comprehend the code base and get peer feedback on the submitted work.
+  <br><br>
 
+## 👮🏽‍♂️Leadership Activities
+--
 - **Founder - Tutoring Services** @ [CS Sfsu](https://cs.sfsu.edu/) _(Aug 2017 - May 2020)_ <br>
-Association of Computing Machinery - World's largest scientific and educational computing society
-    - Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms
-        - TA for 140 hours a semester
-    - Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development
-    - Recruited, organized, and trained tutors for the Computer Science Department
-    <br><br>
+  Association of Computing Machinery - World's largest scientific and educational computing society - Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms - TA for 140 hours a semester - Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development - Recruited, organized, and trained tutors for the Computer Science Department
+  <br><br>
 - **Hackathon Organizer** @ [SF Hacks](http://sfhacks.io/) _(Nov 2017 - May 2020)_ <br>
   - Arranged first collegiate Hackathon in San Francisco with over 350 attendees
   - Spearhead an outreach team to reach out to 30+ companies for partnership and raised $18,000 in sponsorship
@@ -63,10 +55,10 @@ Association of Computing Machinery - World's largest scientific and educational 
 - **Teaching Assistant** @ [MobileSpace](http://www.mobilespace.xyz/) _(Feb. 2018 - Apr. 2018)_ <br>
   - Took initiative in learning react native and went on to successfully develop 2 functional apps under minimal supervision
   - Facilitated a dynamic and collaborative classroom of 15 students and conducted weekly office hours for further assistance
-    <br><br>    
+    <br><br>
 
 ## Here's some of the events I attended
-
+--
 - **Google Cloud Next Conference '19** _(San Francisco, CA, Apr 2019)_ <br>
 - **Science and Engineering Student Gov Candidate** at [SF State]() _(San Francisco, CA, Apr 2019)_ <br>
 - **Tech & Diversity Conference** at [Lyft HQ]() _(San Francisco, CA, Mar 2019)_ <br>
@@ -74,7 +66,7 @@ Association of Computing Machinery - World's largest scientific and educational 
 - **Oracle Java One Conference '17** at _(San Francisco, CA, Oct 2017)_ <br>
 - **Speaker at GitHub Field Day** at [Github HQ]() _(San Francisco, CA, Oct 2017)_ <br>
 - **GitHub Universe Conference '17** _(San Francisco, CA, Oct 2017)_ <br>
-- **Volunteer at CODE2040 Summit '17**  _(San Francisco, CA, Aug 2017)_ <br>
+- **Volunteer at CODE2040 Summit '17** _(San Francisco, CA, Aug 2017)_ <br>
 - **Get-together Event** at [Twitter HQ]() _(San Francisco, CA, July 2017)_ <br>
 - **Gaming Experience Review** at [Oculus HQ]() _(Menlo Park, CA, July 2017)_ <br>
 - **Research Study** at [Facebook HQ]() _(Menlo Park, CA, May 2017)_ <br>
@@ -84,6 +76,8 @@ Association of Computing Machinery - World's largest scientific and educational 
 - **Mobile App Review** at [JPMorgan Chase]() _(San Francisco, CA)_ <br>
 - **Website App Review** at [Wells Fargo HQ]() _(San Francisco, CA)_ <br>
   <br><br>
+
+-->
 
 ## 💻 Technologies I Work With
 
