@@ -96,8 +96,11 @@ I am interested in all things related to technology and designs, and my most rec
 
 ## 🧑🏽‍🎓 Education
 
-- **Bachelor of Science** in Computer Science and Engineering, GPA: 3.86<br>
+- **Bachelor of Science** in Computer Science and Engineering, GPA: 3.85<br>
   [University of Creative Technology Chittagong](https://www.uctc.edu.bd/) - Chittagong, Bangladesh _(2019 - Expected December 2022)_
+  <br><br>
+- **Associate of Engineering** in Computer Technology, GPA: 3.11<br>
+  [Chittagong Polytechnic Institute](https://www.ctgpoly.gov.bd/) - Chittagong, Bangladesh _(2014 - 2018)_
 
 > Thank you for reading <br>
 > Updated on 20th Jan, 2022.
