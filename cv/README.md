@@ -9,7 +9,7 @@ _Software developer based in Chittagong, Bangladesh_ <br>
 
 ## 📝 Summary
 
-l revel in solving critical problems, developing algorithms, and building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I currently develop mobile apps at Cimbuk Labs where I have experience working in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid and native technologies. I previously worked on building cross-platform app at Extreme Solutions where I shipped features and released a new version of the app on app stores, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys. I hold top 5% in Associate's degree in Computer Engineering from Chittagong Polytechnic Institute, 2013-2018. During my time in school, I was a researcher and engineer who built and launched a education management system web app at Automate Infosys which received an award from the school at the annual showcase. Currently I am studying BSc in Computer Science and Engineering at the University of Creative Technology, Chittagong, Bangladesh (Expected to graduate in December 2022). Moreover, I founded and led tutoring services at the computer programming for 2 years.
+l revel in solving critical problems, developing algorithms, and building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I currently develop mobile apps at Cimbuk Labs where I have experience working in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid and native technologies. I previously worked on building cross-platform app at Extreme Solutions where I shipped features and released a new version of the app on app stores, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys. I hold top 5% in Associate's degree in Computer Engineering from Chittagong Polytechnic Institute, 2013-2018. During my time in school, I was a researcher and engineer who built and launched a education management system web app at Automate Infosys which received an award from the school at the annual showcase. Currently I am studying BSc in Computer Science and Engineering at the University of Creative Technology, Chittagong, Bangladesh (Expected to graduate in December 2022). Moreover, I founded and led tutoring services at the computer programming for 3 years.
 
 I am interested in all things related to technology and designs, and my most recent career interests lie in Full Stack Development, Mobile Application Development, Human-Computer Interaction, Internet Application Design & Development, and Software Architecture.
 <br><br>
@@ -82,22 +82,22 @@ I am interested in all things related to technology and designs, and my most rec
 ## 💻 Technologies I Work With
 
 - **Programming Languages**<br>
-  JavaScript, TypeScript, Java, Dart, Python, Ruby, C++, HTML/CSS
+  JavaScript, PHP, Java, Dart, Python, C++
 
 - **Libraries and Frameworks**<br>
-  React, React Native, Flutter, Ionic, Redux, GraphQL, Node.js, Express.js
+  Laravel, Flutter, React, GraphQL, Node.js, Express.js, Vue.js
 
 - **Databases and Infrastructure**<br>
-  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, MySQL
+  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
 
 - **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST API, Docker, Postman, Git, bash, NPM, Yarn, Jira, Trello, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
+  Visual Studio Code, XCode, Android Studio, REST APIs, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
   <br><br>
 
 ## 🧑🏽‍🎓 Education
 
-- **Bachelor of Science** in Computer Science, GPA: 3.82<br>
-  [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
+- **Bachelor of Science** in Computer Science and Engineering, GPA: 3.86<br>
+  [University of Creative Technology Chittagong](https://www.uctc.edu.bd/) - Chittagong, Bangladesh _(2019 - Expected December 2022)_
 
 > Thank you for reading <br>
-> Updated on 8th Dec, 2021.
+> Updated on 20th Jan, 2022.
