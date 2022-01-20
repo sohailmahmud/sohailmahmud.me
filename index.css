@@ -221,8 +221,7 @@ body {
   text-decoration: none;
 }
 
-
-#footer a:hover{
+#footer a:hover {
   color: #5d93ff !important;
   transition: 0.5s;
   text-decoration: underline;
@@ -244,7 +243,7 @@ body {
   margin: 1.5vh 0px;
 }
 
-#position{
+#position {
   font-size: 15px;
   font-weight: lighter;
   color: slategray;
@@ -293,7 +292,7 @@ body {
 }
 
 #about span i {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 #work {
@@ -327,8 +326,7 @@ body {
   border-radius: 10px;
   color: var(--text-color);
   border: 1px solid rgb(0, 0, 0, 0.08);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 
-  0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: 0.5s ease-in-out;
   transform: scale(1);
 }
@@ -336,8 +334,7 @@ body {
 .projects section:hover {
   cursor: pointer;
   border: 1px solid rgb(0, 0, 0, 0);
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
-  0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   transform: scale(1.03);
 }
 
@@ -463,10 +460,10 @@ body {
 
 .sidebar__inner:after {
   background: #e6e6e6;
-  background: linear-gradient(180deg,#e6e6e6 0,#e6e6e6 48%,#fff);
+  background: linear-gradient(180deg, #e6e6e6 0, #e6e6e6 48%, #fff);
   position: absolute;
   content: "";
-  width: .0625rem;
+  width: 0.0625rem;
   height: 540px;
   top: 30px;
   right: -10px;
