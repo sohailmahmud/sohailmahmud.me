@@ -82,7 +82,7 @@ I am interested in all things related to technology and designs, and my most rec
 ## 💻 Technologies I Work With
 
 - **Programming Languages**<br>
-  JavaScript, PHP, Java, Dart, Python, C++
+  JavaScript, PHP, Java, Dart, Python, C, C++
 
 - **Libraries and Frameworks**<br>
   Laravel, Flutter, React, GraphQL, Node.js, Express.js, Vue.js
@@ -91,7 +91,7 @@ I am interested in all things related to technology and designs, and my most rec
   Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
 
 - **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST APIs, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
+  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
   <br><br>
 
 ## 🧑🏽‍🎓 Education
